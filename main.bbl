@@ -1,4 +1,34 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{twoDimensional2016}
+Maria Papaioannou, Eric Plum, Jo{\~a}o Valente, Edward~TF Rogers, and Nikolay~I
+  Zheludev.
+\newblock Two-dimensional control of light with light on metasurfaces.
+\newblock {\em Light: Science \& Applications}, 5(4):e16070--e16070, 2016.
+
+\bibitem{lightWithLight2012}
+Jianfa Zhang, Kevin~F MacDonald, and Nikolay~I Zheludev.
+\newblock Controlling light-with-light without nonlinearity.
+\newblock {\em Light: Science \& Applications}, 1(7):e18--e18, 2012.
+
+\bibitem{lightWithLight2015}
+Xu~Fang, Kevin~F MacDonald, and Nikolay~I Zheludev.
+\newblock Controlling light with light using coherent metadevices: all-optical
+  transistor, summator and invertor.
+\newblock {\em Light: Science \& Applications}, 4(5):e292--e292, 2015.
+
+\bibitem{CPAGraphene2017}
+Simone Zanotto, F~Bianco, V~Miseikis, D~Convertino, C~Coletti, and Alessandro
+  Tredicucci.
+\newblock Coherent absorption of light by graphene and other optically
+  conducting surfaces in realistic on-substrate configurations.
+\newblock {\em APL Photonics}, 2(1), 2017.
+
+\bibitem{CPATheory2015}
+L~Baldacci, S~Zanotto, G~Biasiol, L~Sorba, and Alessandro Tredicucci.
+\newblock Interferometric control of absorption in thin plasmonic
+  metamaterials: general two port theory and broadband operation.
+\newblock {\em Optics Express}, 23(7):9202--9210, 2015.
 
 \bibitem{generalized2011}
 Nanfang Yu, Patrice Genevet, Mikhail~A Kats, Francesco Aieta, Jean-Philippe
@@ -7,16 +37,40 @@ Nanfang Yu, Patrice Genevet, Mikhail~A Kats, Francesco Aieta, Jean-Philippe
   reflection and refraction.
 \newblock {\em science}, 334(6054):333--337, 2011.
 
-\bibitem{coherentControl2014}
-Jinhui Shi, Xu~Fang, Edward~TF Rogers, Eric Plum, Kevin~F MacDonald, and
-  Nikolay~I Zheludev.
-\newblock Coherent control of snell’s law at metasurfaces.
-\newblock {\em Optics express}, 22(17):21051--21060, 2014.
+\bibitem{jaboyedoff2012use}
+Michel Jaboyedoff, Thierry Oppikofer, Antonio Abell{\'a}n, Marc-Henri Derron,
+  Alex Loye, Richard Metzger, and Andrea Pedrazzini.
+\newblock Use of lidar in landslide investigations: a review.
+\newblock {\em Natural hazards}, 61:5--28, 2012.
 
-\bibitem{twoDimensional2016}
-Maria Papaioannou, Eric Plum, Jo{\~a}o Valente, Edward~TF Rogers, and Nikolay~I
-  Zheludev.
-\newblock Two-dimensional control of light with light on metasurfaces.
-\newblock {\em Light: Science \& Applications}, 5(4):e16070--e16070, 2016.
+\bibitem{holmstrom2014mems}
+Sven~TS Holmstr{\"o}m, Utku Baran, and Hakan Urey.
+\newblock Mems laser scanners: a review.
+\newblock {\em Journal of Microelectromechanical Systems}, 23(2):259--275,
+  2014.
+
+\bibitem{khalighi2014survey}
+Mohammad~Ali Khalighi and Murat Uysal.
+\newblock Survey on free space optical communication: A communication theory
+  perspective.
+\newblock {\em IEEE communications surveys \& tutorials}, 16(4):2231--2258,
+  2014.
+
+\bibitem{edgar2019principles}
+Matthew~P Edgar, Graham~M Gibson, and Miles~J Padgett.
+\newblock Principles and prospects for single-pixel imaging.
+\newblock {\em Nature photonics}, 13(1):13--20, 2019.
+
+\bibitem{tholl2006novel}
+Hans~Dieter Tholl.
+\newblock Novel laser beam steering techniques.
+\newblock In {\em Technologies for Optical Countermeasures III}, volume 6397,
+  pages 51--64. SPIE, 2006.
+
+\bibitem{huang2016gate}
+Yao-Wei Huang, Ho~Wai~Howard Lee, Ruzan Sokhoyan, Ragip~A Pala, Krishnan
+  Thyagarajan, Seunghoon Han, Din~Ping Tsai, and Harry~A Atwater.
+\newblock Gate-tunable conducting oxide metasurfaces.
+\newblock {\em Nano letters}, 16(9):5319--5325, 2016.
 
 \end{thebibliography}

@@ -15,49 +15,44 @@ Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 5 items.
 Database file #1: refs.bib
-Warning--I didn't find a database entry for "jaboyedoff2012use"
-Warning--I didn't find a database entry for "holmstrom2014mems"
-Warning--I didn't find a database entry for "khalighi2014survey"
-Warning--I didn't find a database entry for "edgar2019principles"
-You've used 3 entries,
+You've used 12 entries,
             1791 wiz_defined-function locations,
-            483 strings with 4517 characters,
-and the built_in function-call counts, 986 in all, are:
-= -- 82
-> -- 60
-< -- 0
-+ -- 21
-- -- 18
-* -- 96
-:= -- 166
-add.period$ -- 9
-call.type$ -- 3
-change.case$ -- 3
+            540 strings with 6280 characters,
+and the built_in function-call counts, 3371 in all, are:
+= -- 298
+> -- 182
+< -- 2
++ -- 65
+- -- 53
+* -- 294
+:= -- 549
+add.period$ -- 37
+call.type$ -- 12
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 27
-empty$ -- 83
-format.name$ -- 18
-if$ -- 201
+cite$ -- 12
+duplicate$ -- 117
+empty$ -- 299
+format.name$ -- 53
+if$ -- 715
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 3
-newline$ -- 18
-num.names$ -- 3
-pop$ -- 3
+int.to.str$ -- 12
+missing$ -- 12
+newline$ -- 63
+num.names$ -- 12
+pop$ -- 16
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 9
+skip$ -- 46
 stack$ -- 0
-substring$ -- 105
-swap$ -- 3
-text.length$ -- 0
+substring$ -- 301
+swap$ -- 21
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 9
-width$ -- 4
-write$ -- 35
-(There were 4 warnings)
+while$ -- 35
+width$ -- 14
+write$ -- 136
