@@ -1,11 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{twoDimensional2016}
-Maria Papaioannou, Eric Plum, Jo{\~a}o Valente, Edward~TF Rogers, and Nikolay~I
-  Zheludev.
-\newblock Two-dimensional control of light with light on metasurfaces.
-\newblock {\em Light: Science \& Applications}, 5(4):e16070--e16070, 2016.
-
 \bibitem{lightWithLight2012}
 Jianfa Zhang, Kevin~F MacDonald, and Nikolay~I Zheludev.
 \newblock Controlling light-with-light without nonlinearity.
@@ -24,6 +18,12 @@ Simone Zanotto, F~Bianco, V~Miseikis, D~Convertino, C~Coletti, and Alessandro
   conducting surfaces in realistic on-substrate configurations.
 \newblock {\em APL Photonics}, 2(1), 2017.
 
+\bibitem{twoDimensional2016}
+Maria Papaioannou, Eric Plum, Jo{\~a}o Valente, Edward~TF Rogers, and Nikolay~I
+  Zheludev.
+\newblock Two-dimensional control of light with light on metasurfaces.
+\newblock {\em Light: Science \& Applications}, 5(4):e16070--e16070, 2016.
+
 \bibitem{CPATheory2015}
 L~Baldacci, S~Zanotto, G~Biasiol, L~Sorba, and Alessandro Tredicucci.
 \newblock Interferometric control of absorption in thin plasmonic
@@ -33,19 +33,19 @@ L~Baldacci, S~Zanotto, G~Biasiol, L~Sorba, and Alessandro Tredicucci.
 \bibitem{generalized2011}
 Nanfang Yu, Patrice Genevet, Mikhail~A Kats, Francesco Aieta, Jean-Philippe
   Tetienne, Federico Capasso, and Zeno Gaburro.
-\newblock Light propagation with phase discontinuities: generalized laws of
+\newblock Light propagation with phase discontinuities: Generalized laws of
   reflection and refraction.
-\newblock {\em science}, 334(6054):333--337, 2011.
+\newblock {\em Science}, 334(6054):333--337, 2011.
 
 \bibitem{jaboyedoff2012use}
 Michel Jaboyedoff, Thierry Oppikofer, Antonio Abell{\'a}n, Marc-Henri Derron,
   Alex Loye, Richard Metzger, and Andrea Pedrazzini.
 \newblock Use of lidar in landslide investigations: a review.
-\newblock {\em Natural hazards}, 61:5--28, 2012.
+\newblock {\em Natural Hazards}, 61:5--28, 2012.
 
 \bibitem{holmstrom2014mems}
 Sven~TS Holmstr{\"o}m, Utku Baran, and Hakan Urey.
-\newblock Mems laser scanners: a review.
+\newblock Mems laser scanners: A review.
 \newblock {\em Journal of Microelectromechanical Systems}, 23(2):259--275,
   2014.
 
@@ -53,24 +53,119 @@ Sven~TS Holmstr{\"o}m, Utku Baran, and Hakan Urey.
 Mohammad~Ali Khalighi and Murat Uysal.
 \newblock Survey on free space optical communication: A communication theory
   perspective.
-\newblock {\em IEEE communications surveys \& tutorials}, 16(4):2231--2258,
+\newblock {\em IEEE Communications Surveys \& Tutorials}, 16(4):2231--2258,
   2014.
 
 \bibitem{edgar2019principles}
 Matthew~P Edgar, Graham~M Gibson, and Miles~J Padgett.
 \newblock Principles and prospects for single-pixel imaging.
-\newblock {\em Nature photonics}, 13(1):13--20, 2019.
+\newblock {\em Nature Photonics}, 13(1):13--20, 2019.
 
 \bibitem{tholl2006novel}
 Hans~Dieter Tholl.
 \newblock Novel laser beam steering techniques.
-\newblock In {\em Technologies for Optical Countermeasures III}, volume 6397,
-  pages 51--64. SPIE, 2006.
+\newblock {\em Technologies for Optical Countermeasures III}, Proc.
+  6397:639708, 2006.
 
 \bibitem{huang2016gate}
 Yao-Wei Huang, Ho~Wai~Howard Lee, Ruzan Sokhoyan, Ragip~A Pala, Krishnan
   Thyagarajan, Seunghoon Han, Din~Ping Tsai, and Harry~A Atwater.
 \newblock Gate-tunable conducting oxide metasurfaces.
-\newblock {\em Nano letters}, 16(9):5319--5325, 2016.
+\newblock {\em Nano Letters}, 16(9):5319--5325, 2016.
+
+\bibitem{gu2011giant}
+Xiaodong Gu, Toshikazu Shimada, and Fumio Koyama.
+\newblock Giant and high-resolution beam steering using slow-light waveguide
+  amplifier.
+\newblock {\em Optics Express}, 19(23):22675--22683, 2011.
+
+\bibitem{van2009off}
+Karel Van~Acoleyen, Wim Bogaerts, Jana J{\'a}gersk{\'a}, Nicolas Le~Thomas,
+  Romuald Houdr{\'e}, and Roel Baets.
+\newblock Off-chip beam steering with a one-dimensional optical phased array on
+  silicon-on-insulator.
+\newblock {\em Optics Letters}, 34(9):1477--1479, 2009.
+
+\bibitem{hutchison2016high}
+David~N Hutchison, Jie Sun, Jonathan~K Doylend, Ranjeet Kumar, John Heck,
+  Woosung Kim, Christopher~T Phare, Avi Feshali, and Haisheng Rong.
+\newblock High-resolution aliasing-free optical beam steering.
+\newblock {\em Optica}, 3(8):887--890, 2016.
+
+\bibitem{lin_high-performance_2022}
+Sam Lin, Yixin Chen, and Zi~Jing Wong.
+\newblock High-performance optical beam steering with nanophotonics.
+\newblock {\em Nanophotonics}, 11(11):2617--2638, 2022.
+
+\bibitem{sokhoyan2020electro}
+Ghazaleh~Kafaie Shirmanesh, Ruzan Sokhoyan, Pin~Chieh Wu, and Harry~A Atwater.
+\newblock Electro-optically tunable multifunctional metasurfaces.
+\newblock {\em ACS Nano}, 14(6):6912--6920, 2020.
+
+\bibitem{wu2019dynamic}
+Pin~Chieh Wu, Ragip~A Pala, Ghazaleh Kafaie~Shirmanesh, Wen-Hui Cheng, Ruzan
+  Sokhoyan, Meir Grajower, Muhammad~Z Alam, Duhyun Lee, and Harry~A Atwater.
+\newblock Dynamic beam steering with all-dielectric electro-optic iii--v
+  multiple-quantum-well metasurfaces.
+\newblock {\em Nature Communications}, 10(1):3654, 2019.
+
+\bibitem{park2021all}
+Junghyun Park, Byung~Gil Jeong, Sun~Il Kim, Duhyun Lee, Jungwoo Kim, Changgyun
+  Shin, Chang~Bum Lee, Tatsuhiro Otsuka, Jisoo Kyoung, Sangwook Kim, et~al.
+\newblock All-solid-state spatial light modulator with independent phase and
+  amplitude control for three-dimensional lidar applications.
+\newblock {\em Nature Nanotechnology}, 16(1):69--76, 2021.
+
+\bibitem{kondo2017fan}
+Keisuke Kondo, Tomoki Tatebe, Shoji Hachuda, Hiroshi Abe, Fumio Koyama, and
+  Toshihiko Baba.
+\newblock Fan-beam steering device using a photonic crystal slow-light
+  waveguide with surface diffraction grating.
+\newblock {\em Optics Letters}, 42(23):4990--4993, 2017.
+
+\bibitem{takeuchi2018thermally}
+Goro Takeuchi, Yosuke Terada, Moe Takeuchi, Hiroshi Abe, Hiroyuki Ito, and
+  Toshihiko Baba.
+\newblock Thermally controlled si photonic crystal slow light waveguide beam
+  steering device.
+\newblock {\em Optics Express}, 26(9):11529--11537, 2018.
+
+\bibitem{ito2020wide}
+Hiroyuki Ito, Yuma Kusunoki, Jun Maeda, Daichi Akiyama, Naoya Kodama, Hiroshi
+  Abe, Ryo Tetsuya, and Toshihiko Baba.
+\newblock Wide beam steering by slow-light waveguide gratings and a prism lens.
+\newblock {\em Optica}, 7(1):47--52, 2020.
+
+\bibitem{hulme2015fully}
+JC~Hulme, JK~Doylend, MJR Heck, JD~Peters, ML~Davenport, JT~Bovington,
+  LA~Coldren, and John~E Bowers.
+\newblock Fully integrated hybrid silicon two dimensional beam scanner.
+\newblock {\em Optics Express}, 23(5):5861--5874, 2015.
+
+\bibitem{fatemi2019nonuniform}
+Reza Fatemi, Aroutin Khachaturian, and Ali Hajimiri.
+\newblock A nonuniform sparse 2-d large-fov optical phased array with a
+  low-power pwm drive.
+\newblock {\em IEEE Journal of Solid-State Circuits}, 54(5):1200--1215, 2019.
+
+\bibitem{poulton2019long}
+Christopher~Vincent Poulton, Matthew~J Byrd, Peter Russo, Erman Timurdogan,
+  Murshed Khandaker, Diedrik Vermeulen, and Michael~R Watts.
+\newblock Long-range lidar and free-space data communication with
+  high-performance optical phased arrays.
+\newblock {\em IEEE Journal of Selected Topics in Quantum Electronics},
+  25(5):1--8, 2019.
+
+\bibitem{dostart2020serpentine}
+Nathan Dostart, Bohan Zhang, Anatol Khilo, Michael Brand, Kenaish Al~Qubaisi,
+  Deniz Onural, Daniel Feldkhun, Kelvin~H Wagner, and Milo{\v{s}}~A
+  Popovi{\'c}.
+\newblock Serpentine optical phased arrays for scalable integrated photonic
+  lidar beam steering.
+\newblock {\em Optica}, 7(6):726--733, 2020.
+
+\bibitem{refractiveIndex}
+Mikhail Polyanskiy.
+\newblock Refractive index database --- https://refractiveindex.info, 2024.
 
 \end{thebibliography}

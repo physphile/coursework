@@ -1,16 +1,32 @@
 \documentclass[kursovay]{nanolab}
 
-% \includeonly{parts/review}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage[hidelinks]{hyperref}
+
+% \includeonly{parts/original, parts/review}
 
 \renewcommand{\phi}{\varphi}
 \renewcommand{\Phi}{\varPhi}
 \renewcommand{\Theta}{\varTheta}
-\newcommand{\matr}[1]{\mathbf{#1}}
+\newcommand{\unchapter}[1]{%
+  \begingroup
+  \chapter*{#1}
+  \addcontentsline{toc}{chapter}{\textbf{#1}}
+  \markboth{#1}{}
+  \endgroup
+}
+
+\hyphenation{уп-рав-ле-ния}
+\hyphenation{ус-тройств}
+\hyphenation{ме-та-по-вер-хно-сти}
+
+\extrarowheight=3pt
 
 \begin{document}
 
 \include{parts/title}
-% \tableofcontents
+\tableofcontents
 \include{parts/introduction}
 \include{parts/review}
 \include{parts/original}
