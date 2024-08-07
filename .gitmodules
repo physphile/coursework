@@ -1,0 +1,3 @@
+[submodule "coherent-control"]
+	path = coherent-control
+	url = https://github.com/physphile/coherent-control
